@@ -6,9 +6,9 @@
 
 ###
 
-<h2 align="left">Sobre mi</h2>
+<h2 align="left">Sobre mi :man_technologist:</h2>
 
-<p align="left">Actualment estic estudiant el segond curs de DAM, en el institut Tecnologic de Barcelona</p>
+<p align="left">Actualment estic estudiant el segond curs de DAM, en el institut Tecnologic de Barcelona 📚</p>
 
 ###
 
