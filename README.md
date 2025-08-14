@@ -1,18 +1,19 @@
-<h1 align="left">Bones👋 Que tal?🫡</h1>
+<h1 align="left">Bones👋 Què tal?🫡</h1>
 
 ###
 
-<p align="left">Em dic Marc, soc un estudiant de DAM en ITB</p>
+<p align="left">Em dic Marc, sóc desenvolupador d'aplicacions multiplataforma i web</p>
 
 ###
 
-<h2 align="left">Sobre mi :man_technologist:</h2>
+<h2 align="left">Sobre mi 👨‍💻</h2>
 
-<p align="left">Actualment estic estudiant el segond curs de DAM, en el institut Tecnologic de Barcelona 📚</p>
+<p align="left">Acabo de finalitzar el Cicle Superior de Desenvolupament d'Aplicacions Multiplataforma (DAM) a l'Institut Tecnològic de Barcelona 📚  
+Actualment estic buscant oportunitats laborals per posar en pràctica i ampliar els meus coneixements 💼</p>
 
 ###
 
-<h2 align="left">Aprenent a utilitzar:</h2>
+<h2 align="left">Tecnologies que domino:</h2>
 
 ###
 
@@ -27,5 +28,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
-
-###
